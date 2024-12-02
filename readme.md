@@ -100,7 +100,7 @@ Root Mean Squared Error (RMSE): Indicates the model's prediction error.
 
 R-squared: A measure of the model's fit.
 
-## Steps to Run the Code
+
 ## License
 
 This dataset is provided under an open data license for use in research, analysis, and model development. Please respect privacy and data use regulations.
