@@ -18,17 +18,24 @@ This dataset was scraped over a period of more than a year from various car list
 
 ## environment variable setup
 HADOOP_HOME = Path to haddop bin and sbin
+
 JAVA_HOME= Path to java
+
 PYSPARK_DRIVER_PYTHON= Path to jupyter
+
 PYSPARK_DRIVER_PYTHON_OPTS= notebook
+
 PYTHON_HOME= Path to python
+
 SPARK_HOME= Path to spark 
 
 
 
 ## Hadoop Configuration
 Create data folder and in the following directories: datanode, namenode, and temp.
+
 Configure hdfs-site.xml(give path of namenode and datanode) and core-site.xml(Add hadoop namenode address) in the etc/hadoop directory.
+
 Worker File: add worker node IPs.
 
 
